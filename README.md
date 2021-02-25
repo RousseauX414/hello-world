@@ -81,3 +81,5 @@ You shall teach us your song's new numbers,
     And things that we dreamed not before:
 Yea, in spite of a dreamer who slumbers,
     And a singer who sings no more.
+    
+    - Arthur O'Shaughnessy
